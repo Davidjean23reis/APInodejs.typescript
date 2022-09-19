@@ -2,7 +2,7 @@ Olá! Sou David Jean
 - Hoje sou membro de uma equipe de produção!
 - Estudo Análise desenvolvimento de sistemas / nodejs-typescrpit
 - Objetivo Trabalhar como desenvolvedor Backend
-- Hobbi Favorito Passeio em família
+
 
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
