@@ -1,8 +1,8 @@
 Olá! Sou David Jean 
 - Hoje sou membro de uma equipe de produção!
-- Estudo Análise desenvolvimento de sistemas / nodejs-typescrpit
+- Estudo Análise desenvolvimento de sistemas 
 - Objetivo Trabalhar como desenvolvedor Backend
-
+- Conhecimentos: Typescript-NodeJs-Mongo DB-Javascript básico
 
 <div align="center">
   <a href="https://github.com/Davidjean23reis">
